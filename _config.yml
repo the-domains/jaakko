@@ -1,0 +1,14 @@
+layout_spectrum: 0.8752663
+typography_spectrum: 0.3086127
+color:
+  saturation: 0.831441
+  lightness: 0.5301549
+  brandStrength: 0.2615182
+  rhythmicContrast: 0.06454799
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Jaakko
